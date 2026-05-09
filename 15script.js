@@ -1,5 +1,5 @@
 // String Methods in JS -> These are built-in function to maniplate a string
-// str.toUpperCase() -> puree word ke letters ko capital me convered ker deta hai 
+// str.toUpperCase() -> puree word ke letters ko capital me convert ker deta hai 
 // str.toLowerCase() -> puree word ke letters ko small letters me converd ker ke de dega
 // str.trim() -> .   "Apnacollege"  str.trim ka use space ko trim kerne ke aata hai dot se laga ker apnacollege tk ki space hai usee trim ker dega
 // str.slice(start,end?)  return part of string
