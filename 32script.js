@@ -6,7 +6,7 @@
 // Window object-> The window object represents an open window in a browser's object(not javaScript's) & is autoatically created by browser
 // It is a global object with lots of properties & methods.
 
-//DOM-> When a wrb page is loaded, the browser creates a document object model(DOM) of the page
+//DOM-> When a web page is loaded, the browser creates a document object model(DOM) of the page
 
 // console.dir(document.body);
 // console.log(document.body);
